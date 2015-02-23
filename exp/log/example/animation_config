@@ -1,0 +1,44 @@
+<node_position>
+0    5,6 
+1    5,5 
+2    0,5 
+3    5,2 
+4    0,2 
+5    3,0 
+6    5,8.5 
+7    0,8.5 
+8    0,10 
+9    5,10
+lost 3,3
+</node_position>
+
+<node_color>
+#a6cee3
+#1f78b4
+#b2df8a
+#33a02c
+#fb9a99
+#e31a1c
+#fdbf6f
+#ff7f00
+#cab2d6
+#6a3d9a
+#ffff99
+#b15928
+</node_color>
+
+<image_size>
+20,20
+</image_size>
+
+<segment_size>
+10
+</segment_size>
+
+<save_frame>
+True
+</save_frame>
+
+<image_only>
+False
+</image_only>
